@@ -5,7 +5,7 @@
 // kalkulatora i sprawdzenie odpowiedniego statusu
 // Zrzuty ekraniu są załączone w repozytorium.
 
-package com.example.bmicalculator; // upewnij się, że to pasuje do Twojego pakietu
+package com.example.bmicalculator;
 
 import android.os.Bundle;
 
