@@ -9,6 +9,7 @@
 
 ##Opis: Stworzenie aplikacji pozwalającej na obliczenia wartości BMI przy użyciu prostego
 kalkulatora i sprawdzenie odpowiedniego statusu (Niedowaga, Optimum, Nadwaga, Otyłość).
+
 Do poprzedniej wersji aplikacji z Zadania1 zostały dodane nowe funkcjonalności:
 - Ekran startowy z tytułem Apka BMI oraz logo spadchorniarza
 - Kalkulator dziennego zapotrzebowania kalorycznego na podstawie wzoru Benedicta-Harrisa
