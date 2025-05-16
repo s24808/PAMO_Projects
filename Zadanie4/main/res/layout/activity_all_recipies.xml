@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dieta niskokaloryczna (poniżej 1800 kcal)"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zupa krem z brokółów\n\nSkładniki:\n- 200g filet z indyka\n- 50g ryż brązowy\n- 1x surówka z marchii z chrzanem i nasionami słonecznika\n\nSposób przygotowania:\nFilet z indyka ugotój na parze, przygotuj ryż i surówkę."
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zupa krem z brokółów\n\nSkładniki:\n- 200g filet z indyka\n- 50g ryż brązowy\n- 1x surówka z marchii z chrzanem i nasionami słonecznika\n\nSposób przygotowania:\nFilet z indyka ugotój na parze, przygotuj ryż i surówkę."
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dieta zbilansowana (1801–2400 kcal)"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Indyk pieczony z ziemniakami i brokułami\n\nSkładniki:\n- 300g filet z indyka\n- 200g ziemniaków\n- 100g brokółów\n\nSposób przygotowania:\nFilet z indyka ugotój na parze, ugotuj brokuły i przygotuj ziemniaki."
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Indyk pieczony z ziemniakami i brokułami\n\nSkładniki:\n- 300g filet z indyka\n- 200g ziemniaków\n- 100g brokółów\n\nSposób przygotowania:\nFilet z indyka ugotój na parze, ugotuj brokuły i przygotuj ziemniaki."
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dieta wysokobiałkowa (powyżej 2400 kcal)"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kurczak z warzywami na parze\n\nSkładniki:\n- 400g fileta z kurczaka\n- 100g brokułów\n- 100g marchewki\n\nSposób przygotowania:\nUgotuj brokuły i marchewkę. Usmaż lub ugotuj kurczaka."
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kurczak z warzywami na parze\n\nSkładniki:\n- 400g fileta z kurczaka\n- 100g brokułów\n- 100g marchewki\n\nSposób przygotowania:\nUgotuj brokuły i marchewkę. Usmaż lub ugotuj kurczaka."
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>
